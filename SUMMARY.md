@@ -1,5 +1,7 @@
-# Table of contents
+# Summary
 
-* [Initial page](README.md)
+* [Início](README.md)
+* [Lições de casa](homework.md)
+* [Roteiro de estudo](roteiro_estudo.md)
 * [Avaliações](avaliacoes.md)
-* [Lição de casa](homework.md)
+* [Reuniões](reunioes.md)

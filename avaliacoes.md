@@ -1,3 +1,7 @@
+---
+layout: default
+title: Avaliações
+---
 
 ## Ciclo Avaliativo Digital
 
