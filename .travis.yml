@@ -1,5 +1,6 @@
-sudo: true
 language: ruby
+os: linux
+dist: xenial
 services:
   - docker
 
